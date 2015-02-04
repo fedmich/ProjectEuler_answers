@@ -8,7 +8,14 @@ Oh and here is my progress so far :)
 ![Progress](https://raw.githubusercontent.com/fedmich/ProjectEuler_answers/master/progress/update_fedmich.png)
 ![Progress](http://projecteuler.net/profile/fedmich.png)
 
+----
+
+Update
+====
+
 I'm removing the solutions and source code of the answers.
 ![Progress](https://raw.githubusercontent.com/fedmich/ProjectEuler_answers/master/progress/dont_share_answers.png)
-I'm quite convince on the page that comes up that its better to not share the codes, but I am still always open to help you out with some hints, you can comment on these repo and I'll respond to it soon as possible. Good luck!
+
+According to the "Congratulation page" that you get on Project Euler site, it's better to not share the codes, so I won't be posting complete source-codes in here. I'm still willing to help you out with some **hints** if you need them. You can comment on this repo and I'll respond to it soon as possible. Good luck!
+
     We hope that you enjoyed solving this problem. Please do not deprive others of going through the same process by publishing your solution outside Project Euler. If you want to share your insights then please go to thread # in the discussion forum.
