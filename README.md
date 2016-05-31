@@ -6,9 +6,10 @@ I'm doing this to prepare for my Technical Interview with **Google**, I hope I p
 
 Oh and here is my progress so far :)
 
-![Progress](https://raw.githubusercontent.com/fedmich/ProjectEuler_answers/master/progress/solved/10.png)
+![Progress](http://projecteuler.net/profile/fedmich.png?solved=11)
 
-![Progress](http://projecteuler.net/profile/fedmich.png?solved=10)
+![Progress](https://raw.githubusercontent.com/fedmich/ProjectEuler_answers/master/progress/solved/11.png)
+
 
 ----
 
